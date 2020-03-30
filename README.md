@@ -1,5 +1,5 @@
 # Travel App
-PDF of Travel App in link above
+PDF of Travel App in app presentation link above
 
 
 
