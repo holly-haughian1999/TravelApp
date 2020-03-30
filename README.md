@@ -1,4 +1,4 @@
 # Travel App
-PDF of Travel App
-(https://holly-haughian1999.github.io/TravelApp/newapppresentation.pdf)
+PDF of Travel App in link above
+
 
